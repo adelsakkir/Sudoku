@@ -1,0 +1,7 @@
+reset;
+model sudoku.mod;
+data sudoku.dat;
+#display box_combin2;
+solve;
+
+display val;
